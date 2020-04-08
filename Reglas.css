@@ -1,0 +1,11 @@
+div>p{
+    border: 2px solid #fabada;
+
+    
+}
+.primero{
+    background-color: blue !important;
+}
+.no_primero{
+    color: red;
+}
